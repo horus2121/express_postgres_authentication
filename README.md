@@ -1,0 +1,1 @@
+This is a back-end server using Node.js Express with JWT for REST APIs. It allows sequelization for interacting with PostgreSQL database.
